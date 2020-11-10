@@ -1,7 +1,2 @@
 # CDR
-CorelDRAWSimpleChineseVersionHistory(CorelDRAW简中历史版本)
-
-1111111111111111111112222222222222222222222222
-
-
-55555555555555555555
+CorelDRAW简中历史版本 CorelDRAWSimpleChineseVersionHistory()
